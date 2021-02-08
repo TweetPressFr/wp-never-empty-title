@@ -1,0 +1,15 @@
+{
+  "name"       : "jmau/wp-never-empty-ctitle",
+  "description": "WordPress plugin that prevents posts from being published without title",
+  "type"       : "wordpress-plugin",
+  "license"    : "GPL-3.0+",
+  "authors"    : [
+    {
+      "name"    : "Julien Maury",
+      "homepage": "https://julien-maury.dev/"
+    }
+  ],
+  "require": {
+    "composer/installers": "~1.0"
+  }
+}
