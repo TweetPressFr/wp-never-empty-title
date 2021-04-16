@@ -1,6 +1,6 @@
 // @source https://gist.github.com/elvismdev/60cb39da63dd97d87b8f2e64ddb1ba29
 // but far far better here (wp speaking)
-( function ($) {
+(function ($) {
 
     //Require post title when adding/editing Project Summaries
     $('body').on('submit.edit-post', '#post', function () {
@@ -27,4 +27,4 @@
         }
     });
 
-}(jQuery) );
+}(jQuery));
